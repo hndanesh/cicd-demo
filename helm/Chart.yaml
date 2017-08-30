@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for javaapp1
+name: javaapp1
+version: 0.1.0
